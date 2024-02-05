@@ -6,14 +6,17 @@ Account Creation Date : [July 28, 2023](https://github.com/KlausJackson?tab=over
 
 Contact me through email or my social media accounts if you have any internship/fresher offer. <br>
 
-Play video games with me (Contact me first):
+Play video games with me (Contact me first): <br>
 
-- Steam : [Klaus Jackson](https://steamcommunity.com/id/KlausJackson/)
-  * I have CSGO 2, Halo: The Master Chief Collection, RIDE 3, Brawlhalla, DRAGON BALL FighterZ, Destiny 2, Warhammer: Vermintide 2, Warframe, 
-Paladins, Left 4 Dead 2, Dota 2, Team Fortress 2, Deceit, Halo Infinite, No More Room in Hell.
-
-- Valorant / League Of Legends / TeamFight Tactics (RIOT Client):
-  * Account #1 : KlausJackson2 #KLAUS  
-  * Account #2 : Klaus Michaelson #Klaus 
+- Steam : [Klaus Jackson](https://steamcommunity.com/id/KlausJackson/) <br>
+  Multiplayer games I own:
+  * Shooting : Counter-Strike 2, Halo: The Master Chief Collection, Destiny 2, Warframe, Paladins, Team Fortress 2, Halo Infinite. <br>
+  * Horror : Left 4 Dead 2, Deceit, No More Room in Hell. <br>
+  * Combat : Brawlhalla, DRAGON BALL FighterZ. <br> 
+  * Others : Warhammer: Vermintide 2, Dota 2. <br>
+    
+- Valorant / League Of Legends / TeamFight Tactics (RIOT Client): <br>
+  * Account #1 : KlausJackson2 #KLAUS  <br>
+  * Account #2 : Klaus Michaelson #Klaus <br>
   
-Location : Vietnam
+Location : Vietnam <br>
