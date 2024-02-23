@@ -9,7 +9,7 @@ Contact me through email or my social media accounts if you have any internship/
 Play video games with me (Contact me first): <br>
 
 - Steam : [Klaus Jackson](https://steamcommunity.com/id/KlausJackson/) <br>
-  Multiplayer games I own:
+  Multiplayer games I own: <br>
   * Shooting : Counter-Strike 2, Halo: The Master Chief Collection, Destiny 2, Warframe, Paladins, Team Fortress 2, Halo Infinite. <br>
   * Horror : Left 4 Dead 2, Deceit, No More Room in Hell. <br>
   * Combat : Brawlhalla, DRAGON BALL FighterZ. <br> 
