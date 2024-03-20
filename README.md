@@ -5,5 +5,5 @@ Account Creation Date : [July 28, 2023](https://github.com/KlausJackson?tab=over
 ## Contact info
 
 Contact me through email or my social media accounts if you have any internship/fresher offer. <br>
-I can do remote and part-time. <br>
+I can do remote (full-time) and on-site (part-time). <br>
 Location : Vietnam <br>
