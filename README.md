@@ -1,8 +1,8 @@
-## Contact info
+## ABOUT ME
 Account Creation Date : [July 28, 2023](https://github.com/KlausJackson?tab=overview&from=2023-07-01&to=2023-07-31) <br>
-Contact me through email or my social media accounts if you have any internship/fresher offer. <br>
+Contact me through email or my social media accounts if you have any internship/fresher offer or want to collaborate on projects. <br>
 I can do remote (full-time) and on-site (part-time). <br>
-Location : Vietnam <br>
+Location : Vietnam (on-site) <br>
 
 
 The following rectangles are just me feeling bored, customizing and playing around. <br>
