@@ -5,7 +5,8 @@ I can do remote (full-time) and on-site (part-time). <br>
 Location : Vietnam (on-site) <br>
 
 ![](https://img.shields.io/badge/License-MIT-blue.svg) <br>
-All of my code on public repositories are MIT Lisence. <br>
+
+All of my code on public repositories are MIT Lisence and mostly In Python. <br>
 
 [![Klaus Jackson's GitHub stats](https://github-readme-stats.vercel.app/api?username=KlausJackson&show_icons=true&hide=prs,contribs&theme=transparent&text_color=797ef6&rank_icon=percentile&show=discussions_started,discussions_answered)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KlausJackson&layout=compact&show_icons=true&theme=transparent&text_color=797ef6)
