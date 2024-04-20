@@ -4,7 +4,7 @@ Contact me through email or my social media accounts if you have any internship/
 I can do remote (full-time) and on-site (part-time). <br>
 Location : Vietnam (on-site) <br>
 
-![](https://img.shields.io/badge/License-MIT-blue.svg) <br>
+![](https://img.shields.io/badge/License-MIT-blue.svg) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://shields.io/) <br>
 
 All of my code on public repositories are MIT Lisence and mostly In Python. <br>
 
