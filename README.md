@@ -8,12 +8,12 @@ Location : Vietnam (on-site) <br>
 
 What I also know but don't post on Github : data pre-processing, email automation, web scraping using requests, BeautifulSoup, Selenium, Scrapy, request-ip-rotator, fake-useragent. <br>
 
-Programming Languages I'm currently learning : 
+Programming Languages I'm currently learning : <br>
 ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/TypeScript-6f64b7?style=for-the-badge&logo=typescript&logoColor=white)
 
-Technologies & Frameworks I'm currently learning and using to make some small projects : 
+Technologies & Frameworks I'm currently learning and using to make some small projects : <br>
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
