@@ -1,7 +1,9 @@
 ## ABOUT ME
 Account Creation Date : [July 28, 2023](https://github.com/KlausJackson?tab=overview&from=2023-07-01&to=2023-07-31) <br>
-Contact me through email or my social media accounts if you have any internship/fresher offer or simply just want to collaborate on a project. Check out my repos to know more about what I have to offer. <br>
-I can do remote (full-time) and on-site (part-time). <br>
+<br>
+Contact me through email or my social media accounts if you have any internship/fresher offer or simply just want to collaborate on a project. Check out my repos to know more about what I have to offer. I can do remote (full-time) and on-site (part-time). <br>
+I need and want a job so bad right now. <br>
+<br>
 Location : Vietnam (on-site) <br>
 
 ![](https://img.shields.io/badge/License-MIT-blue.svg) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://shields.io/) <br>
