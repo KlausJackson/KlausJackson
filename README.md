@@ -4,7 +4,12 @@ Account Creation Date : [July 28, 2023](https://github.com/KlausJackson?tab=over
 Contact me through email or my social media accounts if you have any internship/fresher offer or simply just want to collaborate on a project. Check out my repos to know more about what I have to offer. I can do remote (full-time) and on-site (part-time). <br>
 I need and want a job so bad right now. I'm eager to learn. <br>
 
-Location : Vietnam (on-site) <br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/KlausJackson/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:KlausJackson2@gmail.com)
+[![Steam](https://img.shields.io/badge/Steam-000050?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/KlausJackson/)
+[![Twitter](https://img.shields.io/badge/Twitter-0044BB?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Klaus_Jackson2)
+<br>
+Location : Vietnam (on-site)  <br>
 
 What I also know but don't post on Github : data pre-processing, email automation, web scraping using requests, BeautifulSoup, Selenium, Scrapy, request-ip-rotator, fake-useragent. <br>
 
