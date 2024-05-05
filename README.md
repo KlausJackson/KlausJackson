@@ -4,6 +4,7 @@ Account Creation Date : [July 28, 2023](https://github.com/KlausJackson?tab=over
 Contact me through email or my social media accounts if you have any internship/fresher offer or simply just want to collaborate on a project. Check out my repos to know more about what I have to offer. I can do remote (full-time) and on-site (part-time). <br>
 I need and want a job so bad right now. I'm eager to learn. <br>
 
+[![Patreon](https://img.shields.io/badge/Patreon-AC7AC2?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/KlausJackson?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/KlausJackson/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:KlausJackson2@gmail.com)
 [![Steam](https://img.shields.io/badge/Steam-000050?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/KlausJackson/)
