@@ -12,7 +12,7 @@ I need and want a job so bad right now. I'm eager to learn. <br>
 <br>
 Location : Vietnam (on-site)  <br>
 
-What I also know but don't post on Github : data pre-processing, email automation, web scraping using APIs, requests, BeautifulSoup, Selenium, Scrapy. <br>
+What I also know but don't post on Github : data pre-processing, email automation, web scraping using requests, BeautifulSoup, Selenium, Scrapy. <br>
 
 Programming Languages I'm currently learning : <br>
 ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
