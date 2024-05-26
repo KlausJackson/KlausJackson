@@ -56,4 +56,9 @@ All of my code on public repositories are MIT Lisence and mostly in Python or C+
 
 ![](https://img.shields.io/github/followers/KlausJackson)
 
-![](jnrhd.jpeg)
+<details>
+  <summary>Nothing here</summary>
+  
+  ![](jnrhd.jpeg)
+</details>
+
