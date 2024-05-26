@@ -4,12 +4,14 @@ Account Creation Date : [July 28, 2023](https://github.com/KlausJackson?tab=over
 Contact me through email or my social media accounts if you have any work offer or simply just want to collaborate on a project. Check out my repos to know more about what I have to offer. I can do remote (full-time) and on-site (part-time). I only post projects that I think it's cool enough to be on GitHub. <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/KlausJackson/) 
-[![Twitter](https://img.shields.io/badge/Twitter-0070BA?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Klaus_Jackson2)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Klaus_Jackson2)
 [![Patreon](https://img.shields.io/badge/Patreon-AC7AC2?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/KlausJackson)
-[![Facebook](https://img.shields.io/badge/Facebook-0040BB?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/KlausJackson)
+[![Facebook](https://img.shields.io/badge/Facebook-0000FF?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/KlausJackson)
 [![Buy Me A Coffee](https://img.shields.io/badge/BuyMeCoffee-FFFF00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/klausjackson)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:KlausJackson2@gmail.com)
 [![Steam](https://img.shields.io/badge/Steam-000050?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/KlausJackson/)
+<br>
+[![Reddit](https://img.shields.io/badge/Reddit-FF0000?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/KlausJackson/)
 <br>
 Location : Vietnam (on-site)  <br>
 
@@ -47,10 +49,11 @@ All of my code on public repositories are MIT Lisence and mostly in Python or C+
   
   [![Klaus Jackson's GitHub stats](https://github-readme-stats.vercel.app/api?username=KlausJackson&show_icons=true&hide=prs,contribs&theme=transparent&text_color=797ef6&rank_icon=percentile&show=discussions_started,discussions_answered)](https://github.com/anuraghazra/github-readme-stats)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KlausJackson&layout=compact&show_icons=true&theme=transparent&text_color=797ef6)
-
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KlausJackson&show_icons=true&theme=transparent&text_color=797ef6&repo=Student-Management-System)](https://github.com/KlausJackson/Student-Management-System)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KlausJackson&show_icons=true&theme=transparent&text_color=797ef6&repo=DataStructures_Algorithms)](https://github.com/KlausJackson/DataStructures_Algorithms)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KlausJackson&show_icons=true&theme=transparent&text_color=797ef6&repo=Chat-Room)](https://github.com/KlausJackson/Chat-Room)
 </details>
 
 ![](https://img.shields.io/github/followers/KlausJackson)
+
+![](jnrhd.jpeg)
