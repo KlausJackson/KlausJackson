@@ -10,7 +10,6 @@ Contact me through email or my social media accounts if you have any work offer 
 [![Buy Me A Coffee](https://img.shields.io/badge/BuyMeCoffee-FFFF00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/klausjackson)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:KlausJackson2@gmail.com)
 [![Steam](https://img.shields.io/badge/Steam-000050?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/KlausJackson/)
-<br>
 [![Reddit](https://img.shields.io/badge/Reddit-FF0000?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/KlausJackson/)
 <br>
 Location : Vietnam (on-site)  <br>
