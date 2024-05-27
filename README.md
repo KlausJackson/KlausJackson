@@ -4,7 +4,6 @@ Account Creation Date : [July 28, 2023](https://github.com/KlausJackson?tab=over
 Contact me through email or my social media accounts if you have any work offer or simply just want to collaborate on a project. Check out my repos to know more about what I have to offer. I can do remote (full-time) and on-site (part-time). I only post projects that I think it's cool enough to be on GitHub. <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/KlausJackson/) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Klaus_Jackson2)
 [![Patreon](https://img.shields.io/badge/Patreon-AC7AC2?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/KlausJackson)
 [![Facebook](https://img.shields.io/badge/Facebook-0000FF?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/KlausJacksonV)
 [![Buy Me A Coffee](https://img.shields.io/badge/BuyMeCoffee-FFFF00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/klausjackson)
