@@ -1,17 +1,18 @@
-## ABOUT ME
-Account Creation Date : [July 28, 2023](https://github.com/KlausJackson?tab=overview&from=2023-07-01&to=2023-07-31) <br>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=18&duration=3500&pause=100&center=true&vCenter=true&lines=Klaus+Jackson;Blue+Dragon" alt="typing intro"></p>
 
-Contact me through email or my social media accounts if you have any work offer or simply just want to collaborate on a project. Check out my repos to know more about what I have to offer. I can do remote (full-time) and on-site (part-time). I only post projects that I think it's cool enough to be on GitHub. <br>
+Account Creation Date : [July 28, 2023](https://github.com/KlausJackson?tab=overview&from=2023-07-01&to=2023-07-31)
+
+Contact me through email or my social media accounts if you have any work offer or simply just want to collaborate on a project. Check out my repos to know more about what I have to offer. I can do remote (full-time) and on-site (part-time). I only post projects that I think it's cool enough to be on GitHub. <br>  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/KlausJackson/) 
 [![Patreon](https://img.shields.io/badge/Patreon-AC7AC2?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/KlausJackson)
 [![Facebook](https://img.shields.io/badge/Facebook-0000FF?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/KlausJacksonV)
-[![Buy Me A Coffee](https://img.shields.io/badge/BuyMeCoffee-FFFF00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/klausjackson)
+[![Buy Me A Coffee](https://img.shields.io/badge/BuyMeCoffee-FFFF00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/KlausJackson)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:KlausJackson2@gmail.com)
 [![Steam](https://img.shields.io/badge/Steam-000050?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/KlausJackson/)
-[![Reddit](https://img.shields.io/badge/Reddit-FF0000?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/KlausJackson/)
-<br>
-Location : Vietnam (on-site)  <br>
+[![Reddit](https://img.shields.io/badge/Reddit-FF0000?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/KlausJackson/)  
+
+Location : Vietnam (on-site) 
 
 <details>
   <summary>Technologies & Frameworks</summary>
@@ -45,13 +46,15 @@ All of my code on public repositories are MIT Lisence and mostly in Python or C+
   <summary>Github Stats</summary>
   
   [![Klaus Jackson's GitHub stats](https://github-readme-stats.vercel.app/api?username=KlausJackson&show_icons=true&hide=prs,contribs&theme=transparent&text_color=797ef6&rank_icon=percentile&show=discussions_started,discussions_answered)](https://github.com/anuraghazra/github-readme-stats)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KlausJackson&layout=compact&show_icons=true&theme=transparent&text_color=797ef6)
+  ![Streak Stats](https://streak-stats.demolab.com/?user=KlausJackson&theme=transparent&background=000000)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KlausJackson&show_icons=true&theme=transparent&text_color=797ef6&repo=Student-Management-System)](https://github.com/KlausJackson/Student-Management-System)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KlausJackson&show_icons=true&theme=transparent&text_color=797ef6&repo=DataStructures_Algorithms)](https://github.com/KlausJackson/DataStructures_Algorithms)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KlausJackson&show_icons=true&theme=transparent&text_color=797ef6&repo=Chat-Room)](https://github.com/KlausJackson/Chat-Room)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KlausJackson&layout=compact&show_icons=true&theme=transparent&text_color=797ef6)
 </details>
 
 ![](https://img.shields.io/github/followers/KlausJackson)
+![views](https://komarev.com/ghpvc/?username=KlausJackson&style=fflat-square&color=00BBBB)
 
 <details>
   <summary>Nothing here</summary>
@@ -59,3 +62,4 @@ All of my code on public repositories are MIT Lisence and mostly in Python or C+
   ![](jnrhd.jpeg)
 </details>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ns3qki4cw2kczscav7j6rjatkq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
