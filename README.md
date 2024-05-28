@@ -53,7 +53,7 @@ All of my code on public repositories are MIT Lisence and mostly in Python or C+
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KlausJackson&layout=compact&show_icons=true&theme=transparent&text_color=797ef6)
 </details>
 
-![followers](https://img.shields.io/github/followers/KlausJackson)   
+![followers](https://img.shields.io/github/followers/KlausJackson) 
 ![views](https://komarev.com/ghpvc/?username=KlausJackson&style=fflat-square&color=blue)
 
 <details>
