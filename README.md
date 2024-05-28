@@ -2,7 +2,7 @@
 
 Account Creation Date : [July 28, 2023](https://github.com/KlausJackson?tab=overview&from=2023-07-01&to=2023-07-31)
 
-Contact me through email or my social media accounts if you have any work offer or simply just want to collaborate on a project. Check out my repos to know more about what I have to offer. I can do remote (full-time) and on-site (part-time). I only post projects that I think it's cool enough to be on GitHub. <br>  
+Contact me if you have something to offer. Check out my repos to know more about what I have to offer back. I only post projects that I think it's cool enough to be on GitHub. <br>  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/KlausJackson/) 
 [![Patreon](https://img.shields.io/badge/Patreon-AC7AC2?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/KlausJackson)
@@ -10,8 +10,6 @@ Contact me through email or my social media accounts if you have any work offer 
 [![Buy Me A Coffee](https://img.shields.io/badge/BuyMeCoffee-FFFF00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/KlausJackson)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:KlausJackson2@gmail.com)
 [![Steam](https://img.shields.io/badge/Steam-000050?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/KlausJackson/)  
-
-Location : Vietnam (on-site) 
 
 <details>
   <summary>Technologies & Frameworks</summary>
