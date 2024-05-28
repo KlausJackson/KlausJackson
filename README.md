@@ -22,8 +22,7 @@ Location : Vietnam (on-site)  <br>
     <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" alt="keras" width="35"/>
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40"/> 
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="40"/>  
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40"/>     
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="40"/>      
     <h4>Game Development</h4>
     <img src="https://img.icons8.com/nolan/140/unity-hub.png" alt="unity" width="50"/>
     <img src="https://img.icons8.com/nolan/140/unreal-engine.png" alt="unreal_engine" width="50"/> 
