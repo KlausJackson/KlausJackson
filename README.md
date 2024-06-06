@@ -29,6 +29,9 @@ Contact me if you have something to offer. Check out my repos to know more about
     <img src="https://www.vulkan.org/user/themes/vulkan/images/logo/vulkan-logo.svg" alt="vulkan" width="60" height="40"/> 
     <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/5628528/kcmopengl-icon-md.png" alt="opengl" width="50"/>     
     <h4>Others that I'm also interested in</h4>
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40"/>
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40"/>
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".net" width="40"/> 
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40"/>  
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/>  
