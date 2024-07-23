@@ -62,4 +62,3 @@ All of my code on public repositories are MIT Lisence and mostly in Python or C+
   ![](jnrhd.jpeg)
 </details>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ns3qki4cw2kczscav7j6rjatkq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
