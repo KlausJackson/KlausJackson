@@ -1,4 +1,4 @@
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=18&duration=3500&pause=100&center=true&vCenter=true&lines=Klaus+Jackson;Blue+Dragon" alt="typing intro"></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=18&duration=3500&pause=100&center=true&vCenter=true&lines=Klaus+Jackson;" alt="typing intro"></p>
 
 Account Creation Date : [July 28, 2023](https://github.com/KlausJackson?tab=overview&from=2023-07-01&to=2023-07-31)
 
