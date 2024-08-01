@@ -41,12 +41,14 @@ All of my code on public repositories are MIT Lisence and mostly in Python or C+
 
   ![Klaus Jackson's Analysis](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KlausJackson&theme=transparent)
   [![Klaus Jackson's GitHub stats](https://github-readme-stats.vercel.app/api?username=KlausJackson&show_icons=true&hide=prs,contribs&theme=transparent&text_color=797ef6&rank_icon=percentile&show=discussions_started,discussions_answered)](https://github.com/anuraghazra/github-readme-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KlausJackson&layout=compact&show_icons=true&theme=transparent&text_color=797ef6)  
   ![Streak Stats](https://streak-stats.demolab.com/?user=KlausJackson&theme=transparent)
+  ![Commit Analysis](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KlausJackson&theme=transparent)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KlausJackson&show_icons=true&theme=transparent&text_color=797ef6&repo=Student-Management-System)](https://github.com/KlausJackson/Student-Management-System)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KlausJackson&show_icons=true&theme=transparent&text_color=797ef6&repo=DataStructures_Algorithms)](https://github.com/KlausJackson/DataStructures_Algorithms)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KlausJackson&show_icons=true&theme=transparent&text_color=797ef6&repo=Chat-Room)](https://github.com/KlausJackson/Chat-Room)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KlausJackson&layout=compact&show_icons=true&theme=transparent&text_color=797ef6)
-  ![Commit Analysis](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KlausJackson&theme=transparent)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KlausJackson&show_icons=true&theme=transparent&text_color=797ef6&repo=Simple-Planetary-Simulation.github.io)](https://github.com/KlausJackson/Simple-Planetary-Simulation.github.io)
+
 </details>
 
 ![Followers](https://img.shields.io/github/followers/KlausJackson)
