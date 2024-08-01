@@ -55,7 +55,7 @@ All of my code on public repositories are MIT Lisence and mostly in Python or C+
 ![Views](https://komarev.com/ghpvc/?username=KlausJackson&style=fflat-square&color=blue)
 
 <details>
-    <summary>Nothing here</summary>
-
-    ![](jnrhd.jpeg)
+  <summary>Nothing here</summary>
+  
+  ![](jnrhd.jpeg)
 </details>
