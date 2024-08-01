@@ -56,5 +56,6 @@ All of my code on public repositories are MIT Lisence and mostly in Python or C+
 
 <details>
     <summary>Nothing here</summary>
+
     ![](jnrhd.jpeg)
 </details>
