@@ -20,17 +20,11 @@ Contact me if you have something to offer. Check out my repos to know more about
         <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" alt="keras" width="35"/>
         <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40"/> 
         <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40"/>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="40"/>      
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="40"/>
         <h4>Game Development</h4>
-        <img src="https://img.icons8.com/nolan/140/unity-hub.png" alt="unity" width="50"/>
-        <img src="https://img.icons8.com/nolan/140/unreal-engine.png" alt="unreal_engine" width="50"/> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="godot" width="45"/> 
-        <img src="https://www.pikpng.com/pngl/b/73-738895_sfml-logo-sfml-icon-clipart.png" alt="sfml" width="45"/> 
-        <img src="https://www.vulkan.org/user/themes/vulkan/images/logo/vulkan-logo.svg" alt="vulkan" width="60" height="40"/> 
-        <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/5628528/kcmopengl-icon-md.png" alt="opengl" width="50"/>     
-        <h4>Others that I'm also interested in</h4>
+        <h4>Reverse Engineering</h4>
+        <h4>Others tools that I'm learning</h4>
         <img src="https://skillicons.dev/icons?i=jenkins,docker,kubernetes,dotnet,arduino,qt,nginx&theme=dark" width="300">
-        <br> and reverse engineering also.
     </p>
 </details>
 
