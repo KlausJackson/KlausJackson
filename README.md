@@ -39,9 +39,7 @@ All of my code on public repositories are MIT Lisence and mostly in Python or C+
   ![Streak Stats](https://streak-stats.demolab.com/?user=KlausJackson&theme=transparent)
   ![Commit Analysis](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KlausJackson&theme=transparent)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KlausJackson&show_icons=true&theme=transparent&text_color=797ef6&repo=Student-Management-System)](https://github.com/KlausJackson/Student-Management-System)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KlausJackson&show_icons=true&theme=transparent&text_color=797ef6&repo=DataStructures_Algorithms)](https://github.com/KlausJackson/DataStructures_Algorithms)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KlausJackson&show_icons=true&theme=transparent&text_color=797ef6&repo=Chat-Room)](https://github.com/KlausJackson/Chat-Room)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KlausJackson&show_icons=true&theme=transparent&text_color=797ef6&repo=Simple-Planetary-Simulation.github.io)](https://github.com/KlausJackson/Simple-Planetary-Simulation.github.io)
 
 </details>
 
