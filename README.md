@@ -2,7 +2,7 @@
 
 Account Creation Date : [July 28, 2023](https://github.com/KlausJackson?tab=overview&from=2023-07-01&to=2023-07-31)
 
-Contact me if you have something to offer. Check out my repos to know more about what I have to offer back. I only post projects that I think it's cool enough to be on GitHub. <br>  
+Contact me if you have something to offer. Check out my repos to know more about what I have to offer back. I only post projects that I think it's cool enough to be on GitHub. I mainly make desktop applications and tools. <br>  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/KlausJackson/)
 [![Patreon](https://img.shields.io/badge/Patreon-AC7AC2?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/KlausJackson)
@@ -22,7 +22,7 @@ Contact me if you have something to offer. Check out my repos to know more about
         <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40"/>
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="40"/>
         <h4>Others tools that I'm learning</h4>
-        <img src="https://skillicons.dev/icons?i=jenkins,docker,kubernetes,dotnet,arduino,qt,nginx,unity&theme=dark" width="300">
+        <img src="https://skillicons.dev/icons?i=jenkins,docker,kubernetes,dotnet,arduino,qt,nginx,unity,tauri&theme=dark" width="300">
     </p>
 </details>
 
