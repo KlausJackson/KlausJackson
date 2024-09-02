@@ -21,10 +21,8 @@ Contact me if you have something to offer. Check out my repos to know more about
         <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40"/> 
         <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40"/>
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="40"/>
-        <h4>Game Development</h4>
-        <h4>Reverse Engineering</h4>
         <h4>Others tools that I'm learning</h4>
-        <img src="https://skillicons.dev/icons?i=jenkins,docker,kubernetes,dotnet,arduino,qt,nginx&theme=dark" width="300">
+        <img src="https://skillicons.dev/icons?i=jenkins,docker,kubernetes,dotnet,arduino,qt,nginx,electron,unity&theme=dark" width="300">
     </p>
 </details>
 
