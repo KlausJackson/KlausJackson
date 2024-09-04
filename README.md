@@ -14,19 +14,10 @@ Contact me if you have something to offer. Check out my repos to know more about
 <details>
     <summary>Technologies & Frameworks</summary>
     <p align="left">
-        I'm currently learning about various technologies and frameworks, and I'm excited to broaden my knowledge in the following ones.
-        <h4>Data Science & AI</h4>
-        <img src="https://scipy.in/static/website/bootstrap-css/assets/images/backgrounds/SciPy_logo.png" alt="scipy" width="40"/> 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" alt="keras" width="35"/>
-        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40"/> 
-        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40"/>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="40"/>
-        <h4>Others tools that I'm learning</h4>
-        <img src="https://skillicons.dev/icons?i=jenkins,docker,kubernetes,dotnet,arduino,qt,nginx,unity,tauri&theme=dark" width="300">
+        I'm currently learning about various technologies and frameworks, and I'm excited to broaden my knowledge in the following ones:
+        <img src="https://skillicons.dev/icons?i=jenkins,docker,kubernetes,aws,dotnet,arduino,qt,nginx,unity,tauri,nodejs,react,spring&theme=dark" width="500">
     </p>
 </details>
-
-All of my code on public repositories are MIT Lisence and mostly in Python or C++. <br>
 
 <details>
   <summary>Github Stats</summary>
