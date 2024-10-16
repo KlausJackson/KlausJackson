@@ -2,7 +2,7 @@
 
 Account Creation Date : [July 28, 2023](https://github.com/KlausJackson?tab=overview&from=2023-07-01&to=2023-07-31)
 
-Contact me if you have something to offer. Check out my repos to know more about what I have to offer back. I only post projects that I think it's cool enough to be on GitHub. I mainly make desktop applications and tools. <br>  
+I only post projects that I think it's cool enough to be on GitHub. <br>  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/KlausJackson/)
 [![Patreon](https://img.shields.io/badge/Patreon-AC7AC2?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/KlausJackson)
@@ -14,8 +14,10 @@ Contact me if you have something to offer. Check out my repos to know more about
 <details>
     <summary>Technologies & Frameworks</summary>
     <p align="left">
-        I'm currently learning about various technologies and frameworks, and I'm excited to broaden my knowledge in the following ones:
-        <img src="https://skillicons.dev/icons?i=jenkins,docker,kubernetes,aws,dotnet,arduino,qt,nginx,unity,tauri,nodejs,react,spring&theme=dark" width="500">
+        <p>"https://skillicons.dev/icons?i=" for anyone who wants a github readme like mine.</p>
+        <img src="https://skillicons.dev/icons?i=python,rust,javascript,cpp,java,go,c#&theme=dark" width="300">
+        <img src="https://skillicons.dev/icons?i=dotnet,spring,tauri,nodejs,expressjs,nestjs,react,nextjs,tailwind,threejs&theme=dark" width="400">
+        <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,graphql,docker,kubernetes,aws,arduino,qt,nginx,unreal,unity,pytorch&theme=dark" width="500">
     </p>
 </details>
 
