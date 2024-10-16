@@ -11,12 +11,13 @@ I only post projects that I think it's cool enough to be on GitHub. <br>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:KlausJackson2@gmail.com)
 [![Steam](https://img.shields.io/badge/Steam-000050?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/KlausJackson/)  
 
+<hr>
 <details>
     <summary>Technologies & Frameworks</summary>
     <p align="left">
         <p>"https://skillicons.dev/icons?i=" for anyone who wants a github readme like mine.</p>
-        <img src="https://skillicons.dev/icons?i=python,rust,javascript,cpp,java,go,c#&theme=dark" width="300">
-        <img src="https://skillicons.dev/icons?i=dotnet,spring,tauri,nodejs,expressjs,nestjs,react,nextjs,tailwind,threejs&theme=dark" width="400">
+        <img src="https://skillicons.dev/icons?i=python,rust,javascript,cpp,java,go,c#&theme=dark" width="300"><br>
+        <img src="https://skillicons.dev/icons?i=dotnet,spring,tauri,nodejs,expressjs,nestjs,react,nextjs,tailwind,threejs&theme=dark" width="400"><br>
         <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,graphql,docker,kubernetes,aws,arduino,qt,nginx,unreal,unity,pytorch&theme=dark" width="500">
     </p>
 </details>
