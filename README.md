@@ -41,5 +41,5 @@ I only post projects that I think it's cool enough to be on GitHub. <br>
 <details>
   <summary>Nothing here</summary>
   
-  ![](jnrhd.jpeg)
+  ![A very nice image](image.jpeg)
 </details>
