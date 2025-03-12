@@ -4,9 +4,7 @@ Account Creation Date : [July 28, 2023](https://github.com/KlausJackson?tab=over
 I only post projects that I think it's cool enough to be on GitHub.
 
 [![Steam](https://img.shields.io/badge/Steam-000050?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/KlausJackson/) 
-[![Facebook](https://img.shields.io/badge/Facebook-0000FF?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/KlausJacksonV) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:KlausJackson2@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/KlausJackson/)
 
 <!-- [![Facebook](https://img.shields.io/badge/Facebook-0000FF?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/KlausJacksonV) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:KlausJackson2@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/KlausJackson/) -->
 
