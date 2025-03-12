@@ -14,7 +14,6 @@ I only post projects that I think it's cool enough to be on GitHub.
     <summary>Technologies & Frameworks</summary>
     <div align="left">
         <p>"https://skillicons.dev/icons?i="</p>
-<<<<<<< HEAD
         <img src="https://skillicons.dev/icons?i=python,rust,javascript,typescript,dart,cs,cpp&theme=dark" width="400"><br>
         <img src="https://skillicons.dev/icons?i=tauri,express,nest,next,tailwind,unity,flutter&theme=dark" width="400"><br>
         <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,docker,kubernetes,azure,aws,pytorch&theme=dark" width="400">
