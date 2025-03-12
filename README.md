@@ -1,6 +1,6 @@
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=18&duration=3500&pause=100&center=true&vCenter=true&lines=Klaus+Jackson;Blue+Sky;" alt="typing intro"></p>
 
-Account Creation Date : [July 28, 2023](https://github.com/KlausJackson?tab=overview&from=2023-07-01&to=2023-07-31) `<br>`
+Account Creation Date : [July 28, 2023](https://github.com/KlausJackson?tab=overview&from=2023-07-01&to=2023-07-31) <br>
 I only post projects that I think it's cool enough to be on GitHub.
 
 [![Steam](https://img.shields.io/badge/Steam-000050?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/KlausJackson/) 
