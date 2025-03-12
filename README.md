@@ -3,15 +3,22 @@
 Account Creation Date : [July 28, 2023](https://github.com/KlausJackson?tab=overview&from=2023-07-01&to=2023-07-31) `<br>`
 I only post projects that I think it's cool enough to be on GitHub.
 
-[![Patreon](https://img.shields.io/badge/Patreon-AC2AC2?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/KlausJackson)[![Buy Me A Coffee](https://img.shields.io/badge/BuyMeCoffee-FFFF00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/KlausJackson)  [![Steam](https://img.shields.io/badge/Steam-000050?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/KlausJackson/) [![Hugging Face](https://img.shields.io/badge/HuggingFace-FFBF00?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/KlausJackson)
+[![Steam](https://img.shields.io/badge/Steam-000050?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/KlausJackson/) 
+[![Facebook](https://img.shields.io/badge/Facebook-0000FF?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/KlausJacksonV) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:KlausJackson2@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/KlausJackson/)
 
+<<<<<<< HEAD
 <!-- [![Facebook](https://img.shields.io/badge/Facebook-0000FF?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/KlausJacksonV) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:KlausJackson2@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/KlausJackson/) -->
 
 <hr>
+=======
+>>>>>>> 88d7baa0f6b71c9eb8c899e543413c9d054a7b76
 <details>
     <summary>Technologies & Frameworks</summary>
     <div align="left">
         <p>"https://skillicons.dev/icons?i="</p>
+<<<<<<< HEAD
         <img src="https://skillicons.dev/icons?i=python,rust,javascript,typescript,dart,cs,cpp&theme=dark" width="400"><br>
         <img src="https://skillicons.dev/icons?i=tauri,express,nest,next,tailwind,unity,flutter&theme=dark" width="400"><br>
         <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,docker,kubernetes,azure,aws,pytorch&theme=dark" width="400">
@@ -39,7 +46,9 @@ I only post projects that I think it's cool enough to be on GitHub.
 
 <details>
   <summary>Nothing here</summary>
-
+    
+  [![Patreon](https://img.shields.io/badge/Patreon-AC2AC2?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/KlausJackson)
+  [![Buy Me A Coffee](https://img.shields.io/badge/BuyMeCoffee-FFFF00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/KlausJackson)  
   ![A very nice image](image.jpeg)
 
 </details>
