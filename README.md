@@ -3,7 +3,7 @@
 Account Creation Date : [July 28, 2023](https://github.com/KlausJackson?tab=overview&from=2023-07-01&to=2023-07-31) <br>
 I only post stuff that I want to share.
 
-[![Steam](https://img.shields.io/badge/Steam-000050?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/KlausJackson/) 
+<!-- [![Steam](https://img.shields.io/badge/Steam-000050?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/KlausJackson/)  -->
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:KlausJackson2@gmail.com) 
 
 <hr>
