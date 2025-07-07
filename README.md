@@ -4,26 +4,39 @@ Account Creation Date : [July 28, 2023](https://github.com/KlausJackson?tab=over
 I only post stuff that I want to share.
 
 <!-- [![Steam](https://img.shields.io/badge/Steam-000050?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/KlausJackson/)  -->
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:KlausJackson2@gmail.com) 
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:KlausJackson2@gmail.com)
 
 <hr>
 
 <details>
-    <summary>Technologies & Frameworks</summary>
-    <div align="left">
-        <p>"https://skillicons.dev/icons?i="</p>
-        <img src="https://skillicons.dev/icons?i=python,javascript,typescript,dart,cs,cpp&theme=dark" width="400"><br>
-        <img src="https://skillicons.dev/icons?i=express,nest,next,dotnet,adonis,flutter&theme=dark" width="400"><br>
-        <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,kubernetes,azure,aws,pytorch&theme=dark" width="400">
-    </div>
+  <summary>Technologies & Frameworks</summary>
+  <div align="center">
+    <p>I like ESP32.</p>
+    <p>"https://skillicons.dev/icons?i="</p>
+    <details>
+      <summary>Languages</summary>
+      <img src="https://skillicons.dev/icons?i=python,javascript,typescript,dart,cs,cpp,java&theme=dark" width="400">
+    </details>
+    <br>
+    <details>
+      <summary>Frameworks</summary>
+      <img src="https://skillicons.dev/icons?i=express,nest,next,dotnet,adonis,flutter&theme=dark" width="400">
+    </details>
+    <br>
+    <details>
+      <summary>Others</summary>
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,kubernetes,azure,aws,pytorch&theme=dark" width="400">
+    </details>
+  </div>
 </details>
 
 <details>
   <summary>Github Stats</summary>
 
-  ![Klaus Jackson's Analysis](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KlausJackson&theme=transparent)
-  [![Klaus Jackson's GitHub stats](https://github-stats-omega-eight.vercel.app/api?username=KlausJackson&show_icons=true&hide=prs,contribs&theme=transparent&text_color=797ef6&rank_icon=percentile&show=discussions_started,discussions_answered)](https://github.com/anuraghazra/github-readme-stats)
-  ![Top Langs](https://github-stats-omega-eight.vercel.app/api/top-langs/?username=KlausJackson&layout=compact&show_icons=true&theme=transparent&text_color=797ef6&hide=html,cmake,css,scss,shell,objective-c&langs_count=10&exclude_repo=portfolio)
+![Klaus Jackson's Analysis](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KlausJackson&theme=transparent)
+[![Klaus Jackson's GitHub stats](https://github-stats-omega-eight.vercel.app/api?username=KlausJackson&show_icons=true&hide=prs,contribs&theme=transparent&text_color=797ef6&rank_icon=percentile&show=discussions_started,discussions_answered)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-stats-omega-eight.vercel.app/api/top-langs/?username=KlausJackson&layout=compact&show_icons=true&theme=transparent&text_color=797ef6&hide=html,cmake,css,scss,shell,objective-c&langs_count=10&exclude_repo=portfolio)
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KlausJackson&show_icons=true&theme=transparent&text_color=797ef6&repo=repo_name)](https://github.com/KlausJackson/repo_name) -->
 
@@ -32,7 +45,7 @@ I only post stuff that I want to share.
 <div>
   <p> </p>
 
-  ![Followers](https://img.shields.io/github/followers/KlausJackson) ![Views](https://komarev.com/ghpvc/?username=KlausJackson&style=fflat-square&color=blue)
+![Followers](https://img.shields.io/github/followers/KlausJackson) ![Views](https://komarev.com/ghpvc/?username=KlausJackson&style=fflat-square&color=blue)
 
 </div>
 
