@@ -1,7 +1,7 @@
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=18&duration=3500&pause=100&center=true&vCenter=true&lines=Klaus+Jackson;Blue+Sky;" alt="typing intro"></p>
 
 Account Creation Date : [July 28, 2023](https://github.com/KlausJackson?tab=overview&from=2023-07-01&to=2023-07-31) <br>
-I only post stuff that I want to share.
+I only post stuff that I want to share. I share but I do not care.
 
 <!-- [![Steam](https://img.shields.io/badge/Steam-000050?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/KlausJackson/)  -->
 
@@ -10,13 +10,13 @@ I only post stuff that I want to share.
 <hr>
 
 <details>
-  <summary>Technologies & Frameworks</summary>
+  <summary>Main Technologies & Frameworks</summary>
   <div align="center">
     <p>I like ESP32.</p>
     <p>"https://skillicons.dev/icons?i="</p>
     <details>
       <summary>Languages</summary>
-      <img src="https://skillicons.dev/icons?i=python,javascript,typescript,dart,cs,cpp,java&theme=dark" width="400">
+      <img src="https://skillicons.dev/icons?i=python,javascript,typescript,go,dart,cs,cpp,java&theme=dark" width="400">
     </details>
     <br>
     <details>
@@ -26,7 +26,7 @@ I only post stuff that I want to share.
     <br>
     <details>
       <summary>Others</summary>
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,kubernetes,azure,aws,pytorch&theme=dark" width="400">
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,kubernetes,redis,pytorch&theme=dark" width="400">
     </details>
   </div>
 </details>
@@ -38,7 +38,7 @@ I only post stuff that I want to share.
 [![Klaus Jackson's GitHub stats](https://github-stats-omega-eight.vercel.app/api?username=KlausJackson&show_icons=true&hide=prs,contribs&theme=transparent&text_color=797ef6&rank_icon=percentile&show=discussions_started,discussions_answered)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-stats-omega-eight.vercel.app/api/top-langs/?username=KlausJackson&layout=compact&show_icons=true&theme=transparent&text_color=797ef6&hide=html,cmake,css,scss,shell,objective-c&langs_count=10&exclude_repo=portfolio)
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KlausJackson&show_icons=true&theme=transparent&text_color=797ef6&repo=repo_name)](https://github.com/KlausJackson/repo_name) -->
+<!-- [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=KlausJackson&show_icons=true&theme=transparent&text_color=797ef6&repo=repo_name)](https://github.com/KlausJackson/repo_name) -->
 
 </details>
 
@@ -53,7 +53,7 @@ I only post stuff that I want to share.
   <summary>Nothing here</summary>
     
   [![Patreon](https://img.shields.io/badge/Patreon-AC2AC2?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/KlausJackson)
-  [![Buy Me A Coffee](https://img.shields.io/badge/BuyMeCoffee-FFFF00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/KlausJackson)  
+  [![Buy Me A Coffee](https://img.shields.io/badge/BuyMeCoffee-FFFF00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/KlausJackson)
   ![A very nice image](image.jpeg)
 
 </details>
