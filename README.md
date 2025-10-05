@@ -16,17 +16,17 @@ I only post stuff that I want to share.
     <p>"https://skillicons.dev/icons?i="</p>
     <details>
       <summary>Languages</summary>
-      <img src="https://skillicons.dev/icons?i=python,javascript,typescript,go,dart,cs,cpp,java&theme=dark" width="400">
+      <img src="https://skillicons.dev/icons?i=python,javascript,typescript,go,dart,cs,cpp&theme=dark" width="400">
     </details>
     <br>
     <details>
       <summary>Frameworks</summary>
-      <img src="https://skillicons.dev/icons?i=express,nest,next,dotnet,adonis,flutter&theme=dark" width="400">
+      <img src="https://skillicons.dev/icons?i=express,nest,next,dotnet,adonis,flutter&theme=dark" width="360">
     </details>
     <br>
     <details>
       <summary>Others</summary>
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,kubernetes,redis,pytorch&theme=dark" width="400">
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,kubernetes,redis,pytorch,scikitlearn&theme=dark" width="400">
     </details>
   </div>
 </details>
