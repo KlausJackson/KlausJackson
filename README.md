@@ -16,17 +16,17 @@ I only post stuff that I want to share.
     <p>"https://skillicons.dev/icons?i="</p>
     <details>
       <summary>Languages</summary>
-      <img src="https://skillicons.dev/icons?i=python,javascript,typescript,go,dart,cs,cpp&theme=dark" width="400">
+      <img src="https://skillicons.dev/icons?i=python,javascript,dart,cs,cpp,java&theme=dark" width="400">
     </details>
     <br>
     <details>
       <summary>Frameworks</summary>
-      <img src="https://skillicons.dev/icons?i=express,nest,next,dotnet,adonis,flutter&theme=dark" width="360">
+      <img src="https://skillicons.dev/icons?i=express,nodejs,dotnet,flutter&theme=dark" width="300">
     </details>
     <br>
     <details>
       <summary>Others</summary>
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,kubernetes,redis,pytorch,scikitlearn&theme=dark" width="400">
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,pytorch,scikitlearn&theme=dark" width="400">
     </details>
   </div>
 </details>
@@ -43,7 +43,7 @@ I only post stuff that I want to share.
   <summary>Github Stats</summary>
 
 ![Klaus Jackson's Analysis](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KlausJackson&theme=transparent)
-[![Klaus Jackson's GitHub stats](https://github-stats-omega-eight.vercel.app/api?username=KlausJackson&show_icons=true&hide=prs,contribs&theme=transparent&text_color=797ef6&rank_icon=percentile&show=discussions_started,discussions_answered)](https://github.com/anuraghazra/github-readme-stats)
+![Klaus Jackson's GitHub stats](https://github-stats-omega-eight.vercel.app/api?username=KlausJackson&show_icons=true&hide=prs,contribs&theme=transparent&text_color=797ef6&rank_icon=percentile&show=discussions_started,discussions_answered)
 ![Top Langs](https://github-stats-omega-eight.vercel.app/api/top-langs/?username=KlausJackson&layout=compact&show_icons=true&theme=transparent&text_color=797ef6&hide=html,cmake,css,scss,shell,objective-c&langs_count=10&exclude_repo=portfolio)
 
 </details>
