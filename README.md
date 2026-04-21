@@ -1,7 +1,8 @@
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=18&duration=3500&pause=100&center=true&vCenter=true&lines=Klaus+Jackson;Hi!+I+post+random+projects+that+I+make.;" alt="typing intro"></p>
 
 <strong>Account Creation Date</strong> : [July 28, 2023](https://github.com/KlausJackson?tab=overview&from=2023-07-01&to=2023-07-31) <br>
-I only post stuff that I want to share.
+I only post stuff that I want to share. <br>
+I still know how to code, but I don't do it as much as I used to. Now I focus more on system design, automation workflows, performance optimization, security.
 
 <!-- [![Steam](https://img.shields.io/badge/Steam-000050?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/KlausJackson/)  -->
 
@@ -47,7 +48,7 @@ I only post stuff that I want to share.
 
 ![Klaus Jackson's Analysis](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KlausJackson&theme=transparent)
 ![Klaus Jackson's GitHub stats](https://github-stats-omega-eight.vercel.app/api?username=KlausJackson&show_icons=true&hide=prs,contribs&theme=transparent&text_color=797ef6&rank_icon=percentile&show=discussions_started,discussions_answered)
-![Top Langs](https://github-stats-omega-eight.vercel.app/api/top-langs/?username=KlausJackson&layout=compact&show_icons=true&theme=transparent&text_color=797ef6&hide=html,cmake,css,scss,shell,objective-c&langs_count=10&exclude_repo=portfolio)
+![Top Langs](https://github-stats-omega-eight.vercel.app/api/top-langs/?username=KlausJackson&layout=compact&show_icons=true&theme=transparent&text_color=797ef6&hide=html,cmake,css,scss,shell,objective-c,coffeescript,tex&langs_count=10&exclude_repo=portfolio)
 
 </details>
 
